@@ -9,7 +9,7 @@
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=AngeloPV&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngeloPV&theme=radical&size_weight=0.5&count_weight=0.5)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngeloPV&theme=radical&size_weight=0.5&count_weight=0.5)](https://github.com/AngeloPV/AngeloPV/github-readme-stats)
 
 
 
