@@ -10,7 +10,7 @@
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=AngeloPV&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) 
 
 
-As tecnologias que trabalho:
+As tecnologias que utilizo:
 
 <div style="display: inline_block"><br>
     <img align="center" alt="Angelo-JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="50">
